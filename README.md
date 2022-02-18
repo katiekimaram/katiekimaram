@@ -1,7 +1,7 @@
 ## 👋 Hello, my name is Katie!
 
 ### About Me
-* I'm current a Software Engineering Immersive Student at Hack Reactor.
+* I'm currently a Software Engineering Immersive Student at Hack Reactor.
 * I've had a passion for programming and creating websites since I was 10 years old.
 * If I'm not coding, you'll often find me playing games, cooking, baking, or hiking.
 
@@ -106,5 +106,11 @@
 ----
 
 ### Github Stats
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katiekimaram&count_private_true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katiekimaram&theme=soft-green)](https://git.io/streak-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katiekimaram&count_private=true&show_icons=true&theme=dark" align = "center"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=katiekimaram&theme=soft-green" align = "center"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&layout=compact&theme=dark" align = "center"/>
+</p>
