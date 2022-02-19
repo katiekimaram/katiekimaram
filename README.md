@@ -107,10 +107,10 @@
 
 ### Github Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katiekimaram&count_private=true&show_icons=true&theme=dark" align = "center"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=katiekimaram&theme=soft-green" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaxenvixen&count_private=true&show_icons=true&theme=dark" align = "center"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaxenvixen&theme=soft-green" align = "center"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&layout=compact&theme=dark" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaxenvixen&layout=compact&theme=dark" align = "center"/>
 </p>
