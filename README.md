@@ -106,11 +106,11 @@
 ----
 
 ### Github Stats
-<p align="right" style="float:right; width:30%;">
-  <img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaxenvixen&theme=dark" align="right"/>
+<p align="right" style="float:right;">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaxenvixen&theme=dark" align="right"/>
 </p>
 
-<p align="left" style="float:left; width:70%;">
+<p align="left" style="float:left;">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=vaxenvixen&count_private=true&show_icons=true&theme=dark" align="left"/>
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaxenvixen&theme=soft-green" align="left"/>
 </p>
