@@ -107,7 +107,7 @@
 
 ### Github Stats
 <p align="right" style="float:right;">
-  <img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaxenvixen&theme=dark" align="right"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaxenvixen&theme=dark" align="right"/>
 </p>
 
 <p align="left" style="float:left;">
