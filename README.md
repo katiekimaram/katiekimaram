@@ -1,28 +1,27 @@
-## 👋 Hello, my name is Katie!
+## Hello, my name is Katie! 👋
 
-### About Me
-* I've had a passion for programming and creating websites since I was 10 years old.
-* If I'm not coding, you'll often find me playing games, cooking, baking, or hiking.
+* Located in Austin, Texas for most of my life. Proudly born in Seoul, Korea.
+* I am passionate with creating, designing, and programming. It has been a growing passion since I was 10 years old!
+* I enjoy building keyboards, messing with circuit boards, soldering, baking and cooking while exploring different cuisines, learning new and fun skills, and scenic views - hills and mountains in particular.
+* A gamer at heart, its what I do most in my downtime. I have previously worked at Blizzard Entertainment for almost 7 years, and it was one of my best experiences.
+
+### Games Library
+
 
 ### Playing on Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)b
 
-#### Connect with me
+#### So what about you? Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiekim1995/)
 [![Instagram](https://img.shields.io/badge/vaxenvixen-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vaxenvixen/)
-
-
 ![Xbox](https://img.shields.io/badge/vaxenvixen-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
-
 ----
 
-### Tech
-
-##### What's in my Arsenal...
+## What's in my Arsenal...
 ###### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -104,7 +103,7 @@
 
 ----
 
-### Github Stats
+## My Github Stats
 <p align="right" style="float:right;">
   <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&theme=dark" align="right"/>
 </p>
