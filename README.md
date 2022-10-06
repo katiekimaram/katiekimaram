@@ -5,11 +5,8 @@
 * I enjoy building keyboards, messing with circuit boards, soldering, baking and cooking while exploring different cuisines, learning new and fun skills, and scenic views - hills and mountains in particular.
 * A gamer at heart, its what I do most in my downtime. I have previously worked at Blizzard Entertainment for almost 7 years, and it was one of my best experiences.
 
-### Games Library
-
-
 ### Playing on Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)b
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
 #### So what about you? Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiekim1995/)
