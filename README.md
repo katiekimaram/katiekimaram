@@ -12,9 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiekim1995/)
 [![Instagram](https://img.shields.io/badge/vaxenvixen-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vaxenvixen/)
 ![Xbox](https://img.shields.io/badge/vaxenvixen-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Steam](https://img.shields.io/badge/vaxenvixen-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Riot Games](https://img.shields.io/badge/vaxen652-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Battle.net](https://img.shields.io/badge/vaxen%2311928-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
 ----
 
