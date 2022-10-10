@@ -2,8 +2,9 @@
 
 * Located in Austin, Texas for most of my life. Proudly born in Seoul, Korea.
 * I am passionate with creating, designing, and programming. It has been a growing passion since I was 10 years old!
+* I have previously worked at Blizzard Entertainment for almost 7 years and I am currently working at Wipro for Meta (Facebook).
 * I enjoy building keyboards, messing with circuit boards, soldering, baking and cooking while exploring different cuisines, learning new and fun skills, and scenic views - hills and mountains in particular.
-* A gamer at heart, its what I do most in my downtime. I have previously worked at Blizzard Entertainment for almost 7 years, and it was one of my best experiences.
+* A gamer at heart, its what I do most in my downtime. 
 
 ### Playing on Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
