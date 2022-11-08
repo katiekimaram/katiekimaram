@@ -102,11 +102,15 @@
 ----
 
 ## My Github Stats
-<p align="right" style="float:right;">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&theme=dark" align="right"/>
-</p>
 
 <p align="left" style="float:left;">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=katiekimaram&count_private=true&show_icons=true&theme=dark" align="left"/>
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=katiekimaram&theme=soft-green" align="left"/>
 </p>
+
+<p align="right" style="float:left; padding:0.5em;">
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&theme=dark" align="right"/>
+</p>
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
