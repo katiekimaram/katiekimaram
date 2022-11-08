@@ -6,6 +6,8 @@
 * I enjoy building keyboards, messing with circuit boards, soldering, baking and cooking while exploring different cuisines, learning new and fun skills, and scenic views - hills and mountains in particular.
 * A gamer at heart, its what I do most in my downtime. 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
 ### Playing on Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
@@ -19,7 +21,7 @@
 
 ----
 
-## What's in my Arsenal...
+### What's in my Arsenal...
 ###### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -101,7 +103,7 @@
 
 ----
 
-## My Github Stats
+### My Github Stats
 
 <p align="left" style="float:left;">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=katiekimaram&count_private=true&show_icons=true&theme=dark" align="left"/>
@@ -111,6 +113,3 @@
 <p align="right" style="float:left; padding:0.5em;">
   <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&theme=dark" align="right"/>
 </p>
-
-
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
