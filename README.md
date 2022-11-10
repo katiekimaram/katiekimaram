@@ -106,7 +106,7 @@
 ### My Github Stats
 
 <p align="right" style="float:left; padding:0.5em;">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&theme=dark" align="right"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&theme=dark" align="right"/>
 </p>
 
 <p align="left" style="float:left;">
