@@ -1,23 +1,31 @@
-# Hello, my name is Katie! 👋
+# Hello, my name is Katie! <img src='https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif'>
 
-* Located in Austin, Texas for most of my life. Proudly born in Seoul, Korea and korean citizen!
+* Located in Austin, Texas for most of my life. Proudly born in Seoul, Korea and korean citizen.
 * I am passionate with creating, designing, and programming. It has been a growing passion since I was a young child.
 * I have previously worked at Blizzard Entertainment for almost 7 years and I am currently working at Wipro for Meta (Facebook).
 * I enjoy building keyboards, messing with circuit boards, soldering, baking and cooking while exploring different cuisines, learning new and fun skills, and scenic views - hills and mountains in particular.
 * A gamer at heart, its what I do most in my downtime (other than programming or learning). 
 
-![](https://komarev.com/ghpvc/?username=katiekimaram&style=for-the-badge)
-
-### Playing on Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
-
 #### So what about you? Let's connect!
+[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@katiekim.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiekim1995/)
-[![Instagram](https://img.shields.io/badge/vaxenvixen-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vaxenvixen/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/katievaxen/)
+
+##### Check out my portfolio and follow my blog posts!
+[![Website](https://img.shields.io/badge/Website-%23E06666.svg?style=for-the-badge&logo=Link&logoColor=white)](https://katiekim.dev)
+[![Dev.to](https://img.shields.io/badge/DEV.TO-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/katiekimaram)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)]([https://www.instagram.com/katievaxen/](https://katiekimaram.medium.com/))
+
+##### Are you a fellow gamer?
 ![Xbox](https://img.shields.io/badge/vaxenvixen-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
 ![Steam](https://img.shields.io/badge/vaxenvixen-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/vaxen652-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/vaxen%2311928-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+
+### Playing on Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+
+![](https://komarev.com/ghpvc/?username=katiekimaram&style=for-the-badge)
 
 ----
 
