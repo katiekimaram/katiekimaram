@@ -8,7 +8,7 @@
 
 #### So what about you? Let's connect!
 [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@katiekim.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiekim1995/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiekimaram/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/katievaxen/)
 
 ##### Check out my portfolio and follow my blog posts!
@@ -139,6 +139,13 @@
 
   </p>
 </details>
+
+----
+
+### My Work & Accomplishments
+
+*Coming Soon*
+
 
 ----
 
