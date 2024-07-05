@@ -24,7 +24,6 @@
 
 ### Playing on Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aznkaytee&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=aznkaytee&redirect=true)
-![](https://komarev.com/ghpvc/?username=katiekimaram&style=for-the-badge)
 
 ----
 
@@ -149,6 +148,8 @@
 ----
 
 ### My Github Stats
+
+![](https://komarev.com/ghpvc/?username=katiekimaram&style=for-the-badge)
 
 <p align="right" style="float:left; padding:0.5em;">
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&theme=dark" align="right"/>
