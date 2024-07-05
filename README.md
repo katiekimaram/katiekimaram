@@ -23,8 +23,7 @@
 ![Battle.net](https://img.shields.io/badge/vaxen%2311928-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
 ### Playing on Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aznkaytee&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aznkaytee&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=aznkaytee&redirect=true)
 ![](https://komarev.com/ghpvc/?username=katiekimaram&style=for-the-badge)
 
 ----
