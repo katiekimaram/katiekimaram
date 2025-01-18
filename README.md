@@ -1,9 +1,11 @@
 # Hello, my name is Katie! <img src='https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif'>
 
-* Located in Austin, Texas for most of my life. Proudly born in Seoul, Korea and korean citizen.
-* I am passionate with creating, designing, and programming. It has been a growing passion since I was a young child.
-* I have previously worked at Blizzard Entertainment for almost 7 years, Meta/Facebook for a year, and I am currently at SourceDay.
-* I enjoy building keyboards, messing with circuit boards, soldering, baking and cooking while exploring different cuisines, learning new and fun skills, and scenic views - hills and mountains in particular.
+* Raised and located in Austin, Texas. 
+* Proudly born in Seoul, Korea and Korean citizen.
+* Passionate about learning, creating, designing, and programming.
+* Currently and passionately working @ Gorilla. Previously worked at Blizzard Entertainment for almost 7 years and contracted for Meta/Facebook for a year.
+* BSIT and pursuing MBA. TBD to eventually have a doctorates in Data Science or Cybersecurity!
+* Enjoy building keyboards, messing with circuit boards, soldering, baking and cooking while exploring different cuisines, learning new and fun skills, and scenic views - hills and mountains in particular.
 * A gamer at heart, its what I do most in my downtime (other than programming or learning). 
 
 #### So what about you? Let's connect!
