@@ -24,9 +24,6 @@
 ![Riot Games](https://img.shields.io/badge/vaxen652-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/vaxen%2311928-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
-### Playing on Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aznkaytee&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=aznkaytee&redirect=true)
-
 ----
 
 ### What's in my Arsenal...
@@ -151,13 +148,8 @@
 
 ### My Github Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=katiekimaram&theme=vitesse&hide_border=true&border_radius=0&short_numbers=true&mode=weekly&exclude_days=Sat&card_width=400)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=katiekimaram&layout=donut&hide_title=true&langs_count=9&hide_values=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=katiekimaram&layout=donut&hide_title=true&langs_count=9&hide_values=true&theme=codeSTACKr)
+
 ![](https://komarev.com/ghpvc/?username=katiekimaram&style=for-the-badge)
-
-<p align="right" style="float:left; padding:0.5em;">
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiekimaram&theme=dark" align="right"/>
-</p>
-
-<p align="left" style="float:left;">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=katiekimaram&count_private=true&show_icons=true&theme=dark" align="left"/>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=katiekimaram&theme=soft-green" align="left"/>
-</p>
