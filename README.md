@@ -12,18 +12,7 @@
 [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@katiekim.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiekimaram/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/katievaxen/)
-
-##### Check out my portfolio and follow my blog posts!
 [![Website](https://img.shields.io/badge/Website-%23E06666.svg?style=for-the-badge&logo=Link&logoColor=white)](https://katiekim.dev)
-[![Dev.to](https://img.shields.io/badge/DEV.TO-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/katiekimaram)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)]([https://www.instagram.com/katievaxen/](https://katiekimaram.medium.com/))
-
-##### Are you a fellow gamer?
-![Xbox](https://img.shields.io/badge/vaxenvixen-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
-![Steam](https://img.shields.io/badge/vaxenvixen-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/vaxen652-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Battle.net](https://img.shields.io/badge/vaxen%2311928-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-
 ----
 
 ### What's in my Arsenal...
@@ -136,13 +125,6 @@
 
   </p>
 </details>
-
-----
-
-### My Work & Accomplishments
-
-*Coming Soon*
-
 
 ----
 
