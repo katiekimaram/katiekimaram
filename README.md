@@ -3,8 +3,8 @@
 * Raised and located in Austin, Texas. 
 * Proudly born in Seoul, Korea and Korean citizen.
 * Passionate about learning, creating, designing, and programming.
-* Currently and passionately working @ Gorilla. Previously worked at Blizzard Entertainment for almost 7 years and contracted for Meta/Facebook for a year.
-* BSIT and pursuing MBA. TBD to eventually have a doctorates in Data Science or Cybersecurity!
+* Previously worked at Blizzard Entertainment for almost 7 years and contracted for Meta/Facebook for 1 year.
+* BSIT and pursuing MBA
 * Enjoy building keyboards, messing with circuit boards, soldering, baking and cooking while exploring different cuisines, learning new and fun skills, and scenic views - hills and mountains in particular.
 * A gamer at heart, its what I do most in my downtime (other than programming or learning). 
 
